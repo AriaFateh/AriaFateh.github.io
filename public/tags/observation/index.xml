@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Observation on Aria Fateh Kerdari</title>
+    <link>http://localhost:40675/tags/observation/</link>
+    <description>Recent content in Observation on Aria Fateh Kerdari</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>fatehkerdariaria@gmail.com (Aria Fateh Kerdari)</managingEditor>
+    <webMaster>fatehkerdariaria@gmail.com (Aria Fateh Kerdari)</webMaster>
+    
+    <lastBuildDate>Thu, 20 Aug 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:40675/tags/observation/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Learning to look twice</title>
+      <link>http://localhost:40675/blog/new-article/</link>
+      <pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate>
+      <author>fatehkerdariaria@gmail.com (Aria Fateh Kerdari)</author>
+      <guid>http://localhost:40675/blog/new-article/</guid>
+      <description>A short note on observation, astronomy, and the value of a second look.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:40675/blog/new-article/featured.png" />
+    </item>
+    
+  </channel>
+</rss>

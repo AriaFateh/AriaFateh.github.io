@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Life on Aria Fateh Kerdari</title>
+    <link>http://localhost:40675/tags/life/</link>
+    <description>Recent content in Life on Aria Fateh Kerdari</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>fatehkerdariaria@gmail.com (Aria Fateh Kerdari)</managingEditor>
+    <webMaster>fatehkerdariaria@gmail.com (Aria Fateh Kerdari)</webMaster>
+    
+    <lastBuildDate>Sun, 06 Sep 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:40675/tags/life/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>A small corner of the internet</title>
+      <link>http://localhost:40675/blog/firstarticle/</link>
+      <pubDate>Sun, 06 Sep 2026 00:00:00 +0000</pubDate>
+      <author>fatehkerdariaria@gmail.com (Aria Fateh Kerdari)</author>
+      <guid>http://localhost:40675/blog/firstarticle/</guid>
+      <description>Why I am building a personal site, and what I hope to keep here.</description>
+      
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors on Aria Fateh Kerdari</title>
+    <link>http://localhost:40675/authors/</link>
+    <description>Recent content in Authors on Aria Fateh Kerdari</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>fatehkerdariaria@gmail.com (Aria Fateh Kerdari)</managingEditor>
+    <webMaster>fatehkerdariaria@gmail.com (Aria Fateh Kerdari)</webMaster>
+    
+    <atom:link href="http://localhost:40675/authors/index.xml" rel="self" type="application/rss+xml" />
+    
+  </channel>
+</rss>

@@ -1,0 +1,18 @@
+disabled = false
+locale = "en"
+label = "English"
+weight = 1
+title = "Aria Fateh Kerdari"
+
+[params]
+displayName = "EN"
+isoCode = "en"
+rtl = false
+dateFormat = "2 January 2006"
+description = "Aria Fateh Kerdari | Electrical engineering, mathematics, astronomy, and notes from the road."
+logo = "smallLogo.png"
+
+[params.author]
+email = "fatehkerdariaria@gmail.com"
+name = "Aria Fateh Kerdari"
+links = [ ]

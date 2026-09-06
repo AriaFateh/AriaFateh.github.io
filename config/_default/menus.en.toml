@@ -1,0 +1,26 @@
+[[main]]
+none = "none"
+
+[[main]]
+name = "Writing"
+pre = "pencil"
+pageRef = "Blog"
+identifier = "e74MycI0lM"
+weight = 10
+
+[[main]]
+name = "About Me"
+pre = "blogger"
+pageRef = "aboutme"
+identifier = "O7gMt93P4a"
+weight = 20
+
+[[main]]
+name = "Posts"
+pre = "fire"
+pageRef = "posts"
+identifier = "UT9zRzs53C"
+weight = 9_999
+
+[[footer]]
+none = "none"
